@@ -11,6 +11,7 @@ RUN export DEBIAN_FRONTEND='noninteractive' && \
         texlive-base \
         texlive-binaries \
         texlive-lang-czechslovak \
+        texlive-lang-greek \
         texlive-latex-base \
         texlive-latex-extra \
         texlive-latex-recommended \
