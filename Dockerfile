@@ -10,6 +10,7 @@ RUN export DEBIAN_FRONTEND='noninteractive' && \
         tex-common \
         texlive-base \
         texlive-binaries \
+        texlive-fonts-recommended \
         texlive-lang-czechslovak \
         texlive-lang-greek \
         texlive-latex-base \
