@@ -6,7 +6,6 @@ RUN export DEBIAN_FRONTEND='noninteractive' && \
     apt-get update && apt-get install --no-install-recommends -y \
         apt-transport-https \
         ca-certificates \
-        latex-beamer \
         lmodern \
         tex-common \
         texlive-base \
